@@ -2,7 +2,7 @@
   initials: ZE
   name: Zack ELBAZI
   email: john.doe@change.me
-  profession: Data engineer
+  profession: '{} Data engineer'
   image: images/profile.jpg
   location: 'New York, USA'
   relocation: true
